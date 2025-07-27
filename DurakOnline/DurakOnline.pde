@@ -1,7 +1,7 @@
 // Карты в руках игроков
 ArrayList<Card> player1 = new ArrayList<Card>();
 ArrayList<Card> player2 = new ArrayList<Card>();
-
+// test
 ArrayList<Card> beatedCards = new ArrayList<Card>(); // Битые кары
 ArrayList<Card> tableCards = new ArrayList<Card>(); // Карты на столе
 
